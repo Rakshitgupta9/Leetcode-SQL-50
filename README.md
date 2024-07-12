@@ -4,6 +4,10 @@ Welcome to the repository for the solutions to the top 50 SQL questions on LeetC
 
 [My Leetcode](https://leetcode.com/u/rakshitgupta9/) 
 
+![image](https://github.com/user-attachments/assets/b1e13817-21a9-48d0-93d4-66227268501d)
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
