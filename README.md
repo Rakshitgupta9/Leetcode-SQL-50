@@ -2,6 +2,8 @@
 
 Welcome to the repository for the solutions to the top 50 SQL questions on LeetCode! This repository contains my solutions to the SQL problems listed in the [LeetCode Top SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/).
 
+[My Leetcode](https://leetcode.com/u/rakshitgupta9/) 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
