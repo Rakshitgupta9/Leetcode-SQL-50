@@ -5,3 +5,7 @@ from Customer
 group by visited_on
 order by visited_on 
 limit 999999 offset 6;
+
+
+
+--Rakshit Gupta
