@@ -17,3 +17,8 @@ FROM (
 ) t1 
 WHERE 
     rate <= 3;
+
+
+
+
+--Rakshit Gupta
